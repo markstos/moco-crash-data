@@ -1,6 +1,6 @@
 # Monroe County crash data 
 
-*Repository to show the source data, data cleaning and data exploration that went into the IDS Monroe County Crash Dashboard published in May 2023.*
+*Repository to show the source data, data cleaning and data exploration that went into the [IDS Monroe County Crash Dashboard](https://specials.idsnews.com/car-crash-dashboard-monroe-county/) published in May 2023.*
 *Special thanks to YY Ahn, Mike Stewart, Ryan Clemens & Mark Stosberg for help on this project*
 
 ## [notebooks](https://github.com/ids-digi/moco-crash-data/tree/main/notebooks)
